@@ -1,0 +1,16 @@
+ELISA – WEBSITE IM ORIGINALDESIGN
+
+Dein Python-Programm Elisa_Rose.py wird nicht verändert.
+
+1. Öffne Schluessel-aendern.html lokal auf deinem PC.
+2. Wähle die bisherige album.enc und Elisa_Rose.py (optional, für die eingebetteten Originalbilder).
+3. Gib deinen bisherigen Schlüssel und deinen neuen Schlüssel ein.
+4. Speichere die neue Datei album.enc und lege sie in den Ordner website.
+5. Lade die Dateien AUS dem Ordner website in dein GitHub-Repository elisa.1 hoch.
+   Die vorhandene .nojekyll-Datei darf bleiben. Lade Schluessel-aendern.html und Elisa_Rose.py NICHT in das öffentliche Repository hoch.
+6. Warte, bis GitHub Pages die neue Version veröffentlicht hat, und lade die Seite auf dem iPhone neu.
+
+Wenn du den Schlüssel schon geändert hast, kannst du auch deine aktuelle album.enc unverändert weiterverwenden.
+Falls das ursprüngliche Video oder der Liebesbrief in deiner album.enc fehlen, kannst du sie im lokalen Änderungswerkzeug ergänzen.
+
+WICHTIG: Sehr kurze Schlüssel schützen private Fotos in einem öffentlichen GitHub-Repository nicht zuverlässig. Empfehlenswert ist ein langes, zufälliges Passwort.
